@@ -1,0 +1,7 @@
+{
+  "name": "BartApi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
